@@ -1,0 +1,26 @@
+/* Jason Project */
+
+
+
+
+MAS ier_hf {
+
+
+
+    infrastructure: Centralised
+    
+
+
+    environment: mainEnv
+
+    agents:
+
+        porter;
+
+        manager;
+
+        alarm;
+
+}
+
+
